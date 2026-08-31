@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "Si vous utilisez ce logiciel, merci de le citer comme suit."
+title: "RATISS-BIOLAB — Le Laboratoire Biochimique Low-Cost Souverain"
+abstract: >-
+  Laboratoire biochimique low-cost souverain (Priorité 2 de la doctrine RATISS) :
+  incubateur cellulaire 37 °C ± 0.1 °C, thermocycleur PCR à modules Peltier et
+  spectrophotomètre UV par loi de Beer-Lambert, conçus et simulés pour un
+  assemblage local au Cameroun. Permet de tester les cibles SIRT6, Prestin et
+  CIRBP sans équipement importé.
+authors:
+  - family-names: Evina
+    given-names: Jonathan
+    orcid: "https://orcid.org/0009-0000-4092-5313"
+    affiliation: "RATIS Labs, Cameroun"
+  - name: "JOHNKING0"
+    affiliation: "RATIS Labs, Cameroun"
+keywords:
+  - laboratoire low-cost
+  - incubateur cellulaire
+  - thermocycleur PCR
+  - spectrophotométrie
+  - Beer-Lambert
+  - régulation PID
+  - souveraineté technologique
+  - Cameroun
+license: MIT
+version: "1.0.0"
+date-released: "2026-08-30"
+repository-code: "https://github.com/samajonathan9-source/ratiss-biolab"
+type: software
